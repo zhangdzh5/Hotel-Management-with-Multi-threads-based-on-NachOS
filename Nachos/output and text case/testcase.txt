@@ -1,0 +1,4359 @@
+/home/big/Documents/NachOS_w_CMake-master/code/cmake-build-debug/NACHOS_ENTRANCE -K
+day 1
+Request has been made.
+The guest's information is as follows:
+Guest id: 2
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 4
+Check out date: 7
+Nights number: 3
+
+The available rooms number today is 30
+
+day 1
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 2
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 4
+Check out date: 7
+Nights number: 3
+
+day 1
+Request has been made.
+The guest's information is as follows:
+Guest id: 3
+Rooms number: 1
+Rooms Id: 5
+Check in date: 4
+Check out date: 6
+Nights number: 2
+
+The available rooms number today is 30
+
+day 1
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 3
+Rooms number: 1
+Rooms Id: 5
+Check in date: 4
+Check out date: 6
+Nights number: 2
+
+day 1
+Request has been made.
+The guest's information is as follows:
+Guest id: 4
+Rooms number: 2
+Rooms Id: 1 2
+Check in date: 19
+Check out date: 20
+Nights number: 1
+
+The available rooms number today is 30
+
+day 1
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 4
+Rooms number: 2
+Rooms Id: 1 2
+Check in date: 19
+Check out date: 20
+Nights number: 1
+
+day 1
+Request has been made.
+The guest's information is as follows:
+Guest id: 5
+Rooms number: 2
+Rooms Id: 3 4
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+The available rooms number today is 30
+
+day 1
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 5
+Rooms number: 2
+Rooms Id: 3 4
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+day 1
+Request has been made.
+The guest's information is as follows:
+Guest id: 1
+Rooms number: 1
+Rooms Id: 1
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 30
+
+day 1
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 1
+Rooms number: 1
+Rooms Id: 1
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 2
+Request has been made.
+The guest's information is as follows:
+Guest id: 6
+Rooms number: 2
+Rooms Id: 1 2
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+The available rooms number today is 30
+
+day 2
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 6
+Rooms number: 2
+Rooms Id: 1 2
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+day 2
+Request has been made.
+The guest's information is as follows:
+Guest id: 7
+Rooms number: 3
+Rooms Id: 6 7 8
+Check in date: 5
+Check out date: 6
+Nights number: 1
+
+The available rooms number today is 30
+
+day 2
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 7
+Rooms number: 3
+Rooms Id: 6 7 8
+Check in date: 5
+Check out date: 6
+Nights number: 1
+
+day 2
+Request has been made.
+The guest's information is as follows:
+Guest id: 8
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 11
+Check out date: 15
+Nights number: 4
+
+The available rooms number today is 30
+
+day 2
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 8
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 11
+Check out date: 15
+Nights number: 4
+
+day 2
+Request has been made.
+The guest's information is as follows:
+Guest id: 9
+Rooms number: 3
+Rooms Id: 2 3 4
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 30
+
+day 2
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 9
+Rooms number: 3
+Rooms Id: 2 3 4
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 2
+Request has been made.
+The guest's information is as follows:
+Guest id: 10
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 21
+Check out date: 25
+Nights number: 4
+
+The available rooms number today is 30
+
+day 2
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 10
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 21
+Check out date: 25
+Nights number: 4
+
+day 3
+Request has been made.
+The guest's information is as follows:
+Guest id: 11
+Rooms number: 5
+Rooms Id: 9 10 11 12 13
+Check in date: 3
+Check out date: 6
+Nights number: 3
+
+The available rooms number today is 25
+
+day 3
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 11
+Rooms number: 5
+Rooms Id: 9 10 11 12 13
+Check in date: 3
+Check out date: 6
+Nights number: 3
+
+day 3
+Request has been made.
+The guest's information is as follows:
+Guest id: 12
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 6
+Check out date: 8
+Nights number: 2
+
+The available rooms number today is 25
+
+day 3
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 12
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 6
+Check out date: 8
+Nights number: 2
+
+day 3
+Request has been made.
+The guest's information is as follows:
+Guest id: 13
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 7
+Check out date: 8
+Nights number: 1
+
+The available rooms number today is 25
+
+day 3
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 13
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 7
+Check out date: 8
+Nights number: 1
+
+day 3
+Request has been made.
+The guest's information is as follows:
+Guest id: 14
+Rooms number: 3
+Rooms Id: 6 7 8
+Check in date: 3
+Check out date: 5
+Nights number: 2
+
+The available rooms number today is 22
+
+day 3
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 14
+Rooms number: 3
+Rooms Id: 6 7 8
+Check in date: 3
+Check out date: 5
+Nights number: 2
+
+day 3
+Request has been made.
+The guest's information is as follows:
+Guest id: 15
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+The available rooms number today is 22
+
+day 3
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 15
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+day 4
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 2
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 4
+Check out date: 7
+Nights number: 3
+
+day 4
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 3
+Rooms number: 1
+Rooms Id: 5
+Check in date: 4
+Check out date: 6
+Nights number: 2
+
+day 4
+Request has been made.
+The guest's information is as follows:
+Guest id: 16
+Rooms number: 3
+Rooms Id: 14 15 16
+Check in date: 4
+Check out date: 7
+Nights number: 3
+
+The available rooms number today is 14
+
+day 4
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 16
+Rooms number: 3
+Rooms Id: 14 15 16
+Check in date: 4
+Check out date: 7
+Nights number: 3
+
+day 4
+Request has been made.
+The guest's information is as follows:
+Guest id: 17
+Rooms number: 1
+Rooms Id: 17
+Check in date: 5
+Check out date: 8
+Nights number: 3
+
+The available rooms number today is 14
+
+day 4
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 17
+Rooms number: 1
+Rooms Id: 17
+Check in date: 5
+Check out date: 8
+Nights number: 3
+
+day 4
+Request has been made.
+The guest's information is as follows:
+Guest id: 18
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 8
+Check out date: 12
+Nights number: 4
+
+The available rooms number today is 14
+
+day 4
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 18
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 8
+Check out date: 12
+Nights number: 4
+
+day 4
+Request has been made.
+The guest's information is as follows:
+Guest id: 19
+Rooms number: 2
+Rooms Id: 7 8
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 14
+
+day 4
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 19
+Rooms number: 2
+Rooms Id: 7 8
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 4
+Request has been made.
+The guest's information is as follows:
+Guest id: 20
+Rooms number: 1
+Rooms Id: 1
+Check in date: 27
+Check out date: 28
+Nights number: 1
+
+The available rooms number today is 14
+
+day 4
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 20
+Rooms number: 1
+Rooms Id: 1
+Check in date: 27
+Check out date: 28
+Nights number: 1
+
+day 5
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 14
+Rooms number: 3
+Rooms Id: 6 7 8
+Check in date: 3
+Check out date: 5
+Nights number: 2
+
+The available rooms number today is 13
+
+day 5
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 7
+Rooms number: 3
+Rooms Id: 6 7 8
+Check in date: 5
+Check out date: 6
+Nights number: 1
+
+day 5
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 17
+Rooms number: 1
+Rooms Id: 17
+Check in date: 5
+Check out date: 8
+Nights number: 3
+
+day 5
+Request has been made.
+The guest's information is as follows:
+Guest id: 21
+Rooms number: 1
+Rooms Id: 5
+Check in date: 14
+Check out date: 16
+Nights number: 2
+
+The available rooms number today is 13
+
+day 5
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 21
+Rooms number: 1
+Rooms Id: 5
+Check in date: 14
+Check out date: 16
+Nights number: 2
+
+day 5
+Request has been made.
+The guest's information is as follows:
+Guest id: 23
+Rooms number: 3
+Rooms Id: 1 2 3
+Check in date: 10
+Check out date: 11
+Nights number: 1
+
+The available rooms number today is 13
+
+day 5
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 23
+Rooms number: 3
+Rooms Id: 1 2 3
+Check in date: 10
+Check out date: 11
+Nights number: 1
+
+day 5
+Request has been made.
+The guest's information is as follows:
+Guest id: 24
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 18
+Check out date: 20
+Nights number: 2
+
+The available rooms number today is 13
+
+day 5
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 24
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 18
+Check out date: 20
+Nights number: 2
+
+day 5
+Request has been made.
+The guest's information is as follows:
+Guest id: 25
+Rooms number: 3
+Rooms Id: 1 2 3
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+The available rooms number today is 13
+
+day 5
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 25
+Rooms number: 3
+Rooms Id: 1 2 3
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+day 5
+Request has been made.
+The guest's information is as follows:
+Guest id: 22
+Rooms number: 3
+Rooms Id: 7 8 9
+Check in date: 19
+Check out date: 21
+Nights number: 2
+
+The available rooms number today is 13
+
+day 5
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 22
+Rooms number: 3
+Rooms Id: 7 8 9
+Check in date: 19
+Check out date: 21
+Nights number: 2
+
+day 6
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 11
+Rooms number: 5
+Rooms Id: 9 10 11 12 13
+Check in date: 3
+Check out date: 6
+Nights number: 3
+
+The available rooms number today is 18
+
+day 6
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 3
+Rooms number: 1
+Rooms Id: 5
+Check in date: 4
+Check out date: 6
+Nights number: 2
+
+The available rooms number today is 18
+
+day 6
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 7
+Rooms number: 3
+Rooms Id: 6 7 8
+Check in date: 5
+Check out date: 6
+Nights number: 1
+
+The available rooms number today is 18
+
+day 6
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 12
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 6
+Check out date: 8
+Nights number: 2
+
+day 6
+Request has been made.
+The guest's information is as follows:
+Guest id: 26
+Rooms number: 3
+Rooms Id: 9 10 11
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+The available rooms number today is 18
+
+day 6
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 26
+Rooms number: 3
+Rooms Id: 9 10 11
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+day 6
+Request has been made.
+The guest's information is as follows:
+Guest id: 27
+Rooms number: 4
+Rooms Id: 6 7 8 9
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+The available rooms number today is 18
+
+day 6
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 27
+Rooms number: 4
+Rooms Id: 6 7 8 9
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+day 6
+Request has been made.
+The guest's information is as follows:
+Guest id: 28
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 8
+Check out date: 9
+Nights number: 1
+
+The available rooms number today is 18
+
+day 6
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 28
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 8
+Check out date: 9
+Nights number: 1
+
+day 6
+Request has been made.
+The guest's information is as follows:
+Guest id: 29
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 9
+Check out date: 10
+Nights number: 1
+
+The available rooms number today is 18
+
+day 6
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 29
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 9
+Check out date: 10
+Nights number: 1
+
+day 6
+Request has been made.
+The guest's information is as follows:
+Guest id: 30
+Rooms number: 2
+Rooms Id: 10 11
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+The available rooms number today is 18
+
+day 6
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 30
+Rooms number: 2
+Rooms Id: 10 11
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+day 7
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 2
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 4
+Check out date: 7
+Nights number: 3
+
+The available rooms number today is 21
+
+day 7
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 16
+Rooms number: 3
+Rooms Id: 14 15 16
+Check in date: 4
+Check out date: 7
+Nights number: 3
+
+The available rooms number today is 21
+
+day 7
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 13
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 7
+Check out date: 8
+Nights number: 1
+
+day 7
+Request has been made.
+The guest's information is as follows:
+Guest id: 32
+Rooms number: 3
+Rooms Id: 7 8 9
+Check in date: 8
+Check out date: 9
+Nights number: 1
+
+The available rooms number today is 21
+
+day 7
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 32
+Rooms number: 3
+Rooms Id: 7 8 9
+Check in date: 8
+Check out date: 9
+Nights number: 1
+
+day 7
+Request has been made.
+The guest's information is as follows:
+Guest id: 33
+Rooms number: 4
+Rooms Id: 10 11 12 13
+Check in date: 19
+Check out date: 23
+Nights number: 4
+
+The available rooms number today is 21
+
+day 7
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 33
+Rooms number: 4
+Rooms Id: 10 11 12 13
+Check in date: 19
+Check out date: 23
+Nights number: 4
+
+day 7
+Request has been made.
+The guest's information is as follows:
+Guest id: 34
+Rooms number: 2
+Rooms Id: 4 12
+Check in date: 24
+Check out date: 27
+Nights number: 3
+
+The available rooms number today is 21
+
+day 7
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 34
+Rooms number: 2
+Rooms Id: 4 12
+Check in date: 24
+Check out date: 27
+Nights number: 3
+
+day 7
+Request has been made.
+The guest's information is as follows:
+Guest id: 35
+Rooms number: 5
+Rooms Id: 12 13 14 15 16
+Check in date: 10
+Check out date: 14
+Nights number: 4
+
+The available rooms number today is 21
+
+day 7
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 35
+Rooms number: 5
+Rooms Id: 12 13 14 15 16
+Check in date: 10
+Check out date: 14
+Nights number: 4
+
+day 7
+Request has been made.
+The guest's information is as follows:
+Guest id: 31
+Rooms number: 5
+Rooms Id: 1 2 3 4 7
+Check in date: 16
+Check out date: 19
+Nights number: 3
+
+The available rooms number today is 21
+
+day 7
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 31
+Rooms number: 5
+Rooms Id: 1 2 3 4 7
+Check in date: 16
+Check out date: 19
+Nights number: 3
+
+day 8
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 17
+Rooms number: 1
+Rooms Id: 17
+Check in date: 5
+Check out date: 8
+Nights number: 3
+
+The available rooms number today is 21
+
+day 8
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 12
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 6
+Check out date: 8
+Nights number: 2
+
+The available rooms number today is 21
+
+day 8
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 13
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 7
+Check out date: 8
+Nights number: 1
+
+The available rooms number today is 21
+
+day 8
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 18
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 8
+Check out date: 12
+Nights number: 4
+
+day 8
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 28
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 8
+Check out date: 9
+Nights number: 1
+
+day 8
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 32
+Rooms number: 3
+Rooms Id: 7 8 9
+Check in date: 8
+Check out date: 9
+Nights number: 1
+
+day 8
+Request has been made.
+The guest's information is as follows:
+Guest id: 36
+Rooms number: 2
+Rooms Id: 2 3
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+The available rooms number today is 21
+
+day 8
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 36
+Rooms number: 2
+Rooms Id: 2 3
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+day 8
+Request has been made.
+The guest's information is as follows:
+Guest id: 37
+Rooms number: 3
+Rooms Id: 3 9 10
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+The available rooms number today is 21
+
+day 8
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 37
+Rooms number: 3
+Rooms Id: 3 9 10
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+day 8
+Request has been made.
+The guest's information is as follows:
+Guest id: 38
+Rooms number: 2
+Rooms Id: 7 8
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+The available rooms number today is 21
+
+day 8
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 38
+Rooms number: 2
+Rooms Id: 7 8
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+day 8
+Request has been made.
+The guest's information is as follows:
+Guest id: 39
+Rooms number: 2
+Rooms Id: 13 14
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+The available rooms number today is 21
+
+day 8
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 39
+Rooms number: 2
+Rooms Id: 13 14
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+day 8
+Request has been made.
+The guest's information is as follows:
+Guest id: 40
+Rooms number: 5
+Rooms Id: 5 6 8 9 10
+Check in date: 17
+Check out date: 18
+Nights number: 1
+
+The available rooms number today is 21
+
+day 8
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 40
+Rooms number: 5
+Rooms Id: 5 6 8 9 10
+Check in date: 17
+Check out date: 18
+Nights number: 1
+
+day 9
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 28
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 8
+Check out date: 9
+Nights number: 1
+
+The available rooms number today is 24
+
+day 9
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 32
+Rooms number: 3
+Rooms Id: 7 8 9
+Check in date: 8
+Check out date: 9
+Nights number: 1
+
+The available rooms number today is 24
+
+day 9
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 29
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 9
+Check out date: 10
+Nights number: 1
+
+day 9
+Request has been made.
+The guest's information is as follows:
+Guest id: 41
+Rooms number: 1
+Rooms Id: 5
+Check in date: 12
+Check out date: 14
+Nights number: 2
+
+The available rooms number today is 24
+
+day 9
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 41
+Rooms number: 1
+Rooms Id: 5
+Check in date: 12
+Check out date: 14
+Nights number: 2
+
+day 9
+Request has been made.
+The guest's information is as follows:
+Guest id: 42
+Rooms number: 3
+Rooms Id: 1 2 14
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+The available rooms number today is 24
+
+day 9
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 42
+Rooms number: 3
+Rooms Id: 1 2 14
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+day 9
+Request has been made.
+The guest's information is as follows:
+Guest id: 43
+Rooms number: 2
+Rooms Id: 15 16
+Check in date: 24
+Check out date: 28
+Nights number: 4
+
+The available rooms number today is 24
+
+day 9
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 43
+Rooms number: 2
+Rooms Id: 15 16
+Check in date: 24
+Check out date: 28
+Nights number: 4
+
+day 9
+Request has been made.
+The guest's information is as follows:
+Guest id: 44
+Rooms number: 3
+Rooms Id: 15 16 17
+Check in date: 19
+Check out date: 23
+Nights number: 4
+
+The available rooms number today is 24
+
+day 9
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 44
+Rooms number: 3
+Rooms Id: 15 16 17
+Check in date: 19
+Check out date: 23
+Nights number: 4
+
+day 9
+Request has been made.
+The guest's information is as follows:
+Guest id: 45
+Rooms number: 3
+Rooms Id: 11 17 18
+Check in date: 24
+Check out date: 26
+Nights number: 2
+
+The available rooms number today is 24
+
+day 9
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 45
+Rooms number: 3
+Rooms Id: 11 17 18
+Check in date: 24
+Check out date: 26
+Nights number: 2
+
+day 10
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 29
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 9
+Check out date: 10
+Nights number: 1
+
+The available rooms number today is 20
+
+day 10
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 23
+Rooms number: 3
+Rooms Id: 1 2 3
+Check in date: 10
+Check out date: 11
+Nights number: 1
+
+day 10
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 35
+Rooms number: 5
+Rooms Id: 12 13 14 15 16
+Check in date: 10
+Check out date: 14
+Nights number: 4
+
+day 10
+Request has been made.
+The guest's information is as follows:
+Guest id: 46
+Rooms number: 1
+Rooms Id: 17
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+The available rooms number today is 20
+
+day 10
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 46
+Rooms number: 1
+Rooms Id: 17
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+day 10
+Request has been made.
+The guest's information is as follows:
+Guest id: 47
+Rooms number: 5
+Rooms Id: 8 9 10 11 12
+Check in date: 18
+Check out date: 19
+Nights number: 1
+
+The available rooms number today is 20
+
+day 10
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 47
+Rooms number: 5
+Rooms Id: 8 9 10 11 12
+Check in date: 18
+Check out date: 19
+Nights number: 1
+
+day 10
+Request has been made.
+The guest's information is as follows:
+Guest id: 48
+Rooms number: 2
+Rooms Id: 14 18
+Check in date: 19
+Check out date: 20
+Nights number: 1
+
+The available rooms number today is 20
+
+day 10
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 48
+Rooms number: 2
+Rooms Id: 14 18
+Check in date: 19
+Check out date: 20
+Nights number: 1
+
+day 10
+Request has been made.
+The guest's information is as follows:
+Guest id: 50
+Rooms number: 4
+Rooms Id: 18 19 20 21
+Check in date: 20
+Check out date: 24
+Nights number: 4
+
+The available rooms number today is 20
+
+day 10
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 50
+Rooms number: 4
+Rooms Id: 18 19 20 21
+Check in date: 20
+Check out date: 24
+Nights number: 4
+
+day 10
+Request has been made.
+The guest's information is as follows:
+Guest id: 49
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+The available rooms number today is 20
+
+day 10
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 49
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+day 11
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 23
+Rooms number: 3
+Rooms Id: 1 2 3
+Check in date: 10
+Check out date: 11
+Nights number: 1
+
+The available rooms number today is 19
+
+day 11
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 8
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 11
+Check out date: 15
+Nights number: 4
+
+day 11
+Request has been made.
+The guest's information is as follows:
+Guest id: 51
+Rooms number: 1
+Rooms Id: 22
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+The available rooms number today is 19
+
+day 11
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 51
+Rooms number: 1
+Rooms Id: 22
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+day 11
+Request has been made.
+The guest's information is as follows:
+Guest id: 52
+Rooms number: 4
+Rooms Id: 23 24 25 26
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+The available rooms number today is 19
+
+day 11
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 52
+Rooms number: 4
+Rooms Id: 23 24 25 26
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+day 11
+Request has been made.
+The guest's information is as follows:
+Guest id: 53
+Rooms number: 2
+Rooms Id: 18 19
+Check in date: 11
+Check out date: 15
+Nights number: 4
+
+The available rooms number today is 17
+
+day 11
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 53
+Rooms number: 2
+Rooms Id: 18 19
+Check in date: 11
+Check out date: 15
+Nights number: 4
+
+day 11
+Request has been made.
+The guest's information is as follows:
+Guest id: 54
+Rooms number: 1
+Rooms Id: 17
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+The available rooms number today is 17
+
+day 11
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 54
+Rooms number: 1
+Rooms Id: 17
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+day 11
+Request has been made.
+The guest's information is as follows:
+Guest id: 55
+Rooms number: 5
+Rooms Id: 5 6 27 28 29
+Check in date: 20
+Check out date: 21
+Nights number: 1
+
+The available rooms number today is 17
+
+day 11
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 55
+Rooms number: 5
+Rooms Id: 5 6 27 28 29
+Check in date: 20
+Check out date: 21
+Nights number: 1
+
+day 12
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 18
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 8
+Check out date: 12
+Nights number: 4
+
+The available rooms number today is 18
+
+day 12
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 41
+Rooms number: 1
+Rooms Id: 5
+Check in date: 12
+Check out date: 14
+Nights number: 2
+
+day 12
+Request has been made.
+The guest's information is as follows:
+Guest id: 56
+Rooms number: 1
+Rooms Id: 11
+Check in date: 16
+Check out date: 18
+Nights number: 2
+
+The available rooms number today is 18
+
+day 12
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 56
+Rooms number: 1
+Rooms Id: 11
+Check in date: 16
+Check out date: 18
+Nights number: 2
+
+day 12
+Request has been made.
+The guest's information is as follows:
+Guest id: 57
+Rooms number: 5
+Rooms Id: 13 14 15 16 17
+Check in date: 18
+Check out date: 19
+Nights number: 1
+
+The available rooms number today is 18
+
+day 12
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 57
+Rooms number: 5
+Rooms Id: 13 14 15 16 17
+Check in date: 18
+Check out date: 19
+Nights number: 1
+
+day 12
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 59
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 20
+Check out date: 24
+Nights number: 4
+
+day 12
+Request has been made.
+The guest's information is as follows:
+Guest id: 60
+Rooms number: 4
+Rooms Id: 9 10 11 12
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 18
+
+day 12
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 60
+Rooms number: 4
+Rooms Id: 9 10 11 12
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 12
+Request has been made.
+The guest's information is as follows:
+Guest id: 58
+Rooms number: 1
+Rooms Id: 13
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 18
+
+day 12
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 58
+Rooms number: 1
+Rooms Id: 13
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 13
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 27
+Rooms number: 4
+Rooms Id: 6 7 8 9
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+day 13
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 30
+Rooms number: 2
+Rooms Id: 10 11
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+day 13
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 46
+Rooms number: 1
+Rooms Id: 17
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+day 13
+Request has been made.
+The guest's information is as follows:
+Guest id: 61
+Rooms number: 3
+Rooms Id: 22 23 24
+Check in date: 22
+Check out date: 26
+Nights number: 4
+
+The available rooms number today is 11
+
+day 13
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 61
+Rooms number: 3
+Rooms Id: 22 23 24
+Check in date: 22
+Check out date: 26
+Nights number: 4
+
+day 13
+Request has been made.
+The guest's information is as follows:
+Guest id: 62
+Rooms number: 4
+Rooms Id: 19 20 21 25
+Check in date: 24
+Check out date: 28
+Nights number: 4
+
+The available rooms number today is 11
+
+day 13
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 62
+Rooms number: 4
+Rooms Id: 19 20 21 25
+Check in date: 24
+Check out date: 28
+Nights number: 4
+
+day 13
+Request has been made.
+The guest's information is as follows:
+Guest id: 63
+Rooms number: 5
+Rooms Id: 13 14 26 27 28
+Check in date: 23
+Check out date: 25
+Nights number: 2
+
+The available rooms number today is 11
+
+day 13
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 63
+Rooms number: 5
+Rooms Id: 13 14 26 27 28
+Check in date: 23
+Check out date: 25
+Nights number: 2
+
+day 13
+Request has been made.
+The guest's information is as follows:
+Guest id: 64
+Rooms number: 1
+Rooms Id: 26
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+The available rooms number today is 11
+
+day 13
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 64
+Rooms number: 1
+Rooms Id: 26
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+day 13
+Request has been made.
+The guest's information is as follows:
+Guest id: 65
+Rooms number: 1
+Rooms Id: 14
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 11
+
+day 13
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 65
+Rooms number: 1
+Rooms Id: 14
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 14
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 35
+Rooms number: 5
+Rooms Id: 12 13 14 15 16
+Check in date: 10
+Check out date: 14
+Nights number: 4
+
+The available rooms number today is 16
+
+day 14
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 41
+Rooms number: 1
+Rooms Id: 5
+Check in date: 12
+Check out date: 14
+Nights number: 2
+
+The available rooms number today is 16
+
+day 14
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 21
+Rooms number: 1
+Rooms Id: 5
+Check in date: 14
+Check out date: 16
+Nights number: 2
+
+day 14
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 66
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 17
+Check out date: 21
+Nights number: 4
+
+day 14
+Request has been made.
+The guest's information is as follows:
+Guest id: 68
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 22
+Check out date: 24
+Nights number: 2
+
+The available rooms number today is 16
+
+day 14
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 68
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 22
+Check out date: 24
+Nights number: 2
+
+day 14
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 69
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 17
+Check out date: 21
+Nights number: 4
+
+day 14
+Request has been made.
+The guest's information is as follows:
+Guest id: 70
+Rooms number: 4
+Rooms Id: 15 16 18 19
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 16
+
+day 14
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 70
+Rooms number: 4
+Rooms Id: 15 16 18 19
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 14
+Request has been made.
+The guest's information is as follows:
+Guest id: 67
+Rooms number: 1
+Rooms Id: 5
+Check in date: 16
+Check out date: 17
+Nights number: 1
+
+The available rooms number today is 16
+
+day 14
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 67
+Rooms number: 1
+Rooms Id: 5
+Check in date: 16
+Check out date: 17
+Nights number: 1
+
+day 15
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 8
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 11
+Check out date: 15
+Nights number: 4
+
+The available rooms number today is 22
+
+day 15
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 53
+Rooms number: 2
+Rooms Id: 18 19
+Check in date: 11
+Check out date: 15
+Nights number: 4
+
+The available rooms number today is 22
+
+day 15
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 71
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+day 15
+Request has been made.
+The guest's information is as follows:
+Guest id: 72
+Rooms number: 3
+Rooms Id: 9 27 28
+Check in date: 21
+Check out date: 23
+Nights number: 2
+
+The available rooms number today is 22
+
+day 15
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 72
+Rooms number: 3
+Rooms Id: 9 27 28
+Check in date: 21
+Check out date: 23
+Nights number: 2
+
+day 15
+Request has been made.
+The guest's information is as follows:
+Guest id: 73
+Rooms number: 5
+Rooms Id: 18 19 20 21 22
+Check in date: 15
+Check out date: 19
+Nights number: 4
+
+The available rooms number today is 17
+
+day 15
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 73
+Rooms number: 5
+Rooms Id: 18 19 20 21 22
+Check in date: 15
+Check out date: 19
+Nights number: 4
+
+day 15
+Request has been made.
+The guest's information is as follows:
+Guest id: 74
+Rooms number: 4
+Rooms Id: 20 21 22 23
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 17
+
+day 15
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 74
+Rooms number: 4
+Rooms Id: 20 21 22 23
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 15
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 75
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 19
+Check out date: 21
+Nights number: 2
+
+day 16
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 27
+Rooms number: 4
+Rooms Id: 6 7 8 9
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+The available rooms number today is 18
+
+day 16
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 30
+Rooms number: 2
+Rooms Id: 10 11
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+The available rooms number today is 18
+
+day 16
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 46
+Rooms number: 1
+Rooms Id: 17
+Check in date: 13
+Check out date: 16
+Nights number: 3
+
+The available rooms number today is 18
+
+day 16
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 21
+Rooms number: 1
+Rooms Id: 5
+Check in date: 14
+Check out date: 16
+Nights number: 2
+
+The available rooms number today is 18
+
+day 16
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 31
+Rooms number: 5
+Rooms Id: 1 2 3 4 7
+Check in date: 16
+Check out date: 19
+Nights number: 3
+
+day 16
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 56
+Rooms number: 1
+Rooms Id: 11
+Check in date: 16
+Check out date: 18
+Nights number: 2
+
+day 16
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 67
+Rooms number: 1
+Rooms Id: 5
+Check in date: 16
+Check out date: 17
+Nights number: 1
+
+day 16
+Request has been made.
+The guest's information is as follows:
+Guest id: 77
+Rooms number: 1
+Rooms Id: 27
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+The available rooms number today is 18
+
+day 16
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 77
+Rooms number: 1
+Rooms Id: 27
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+day 16
+Request has been made.
+The guest's information is as follows:
+Guest id: 78
+Rooms number: 5
+Rooms Id: 24 26 27 28 29
+Check in date: 27
+Check out date: 30
+Nights number: 3
+
+The available rooms number today is 18
+
+day 16
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 78
+Rooms number: 5
+Rooms Id: 24 26 27 28 29
+Check in date: 27
+Check out date: 30
+Nights number: 3
+
+day 16
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 79
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 22
+Check out date: 25
+Nights number: 3
+
+day 16
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 80
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 23
+Check out date: 27
+Nights number: 4
+
+day 16
+Request has been made.
+The guest's information is as follows:
+Guest id: 76
+Rooms number: 5
+Rooms Id: 9 10 28 29 30
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+The available rooms number today is 18
+
+day 16
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 76
+Rooms number: 5
+Rooms Id: 9 10 28 29 30
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+day 17
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 67
+Rooms number: 1
+Rooms Id: 5
+Check in date: 16
+Check out date: 17
+Nights number: 1
+
+The available rooms number today is 14
+
+day 17
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 40
+Rooms number: 5
+Rooms Id: 5 6 8 9 10
+Check in date: 17
+Check out date: 18
+Nights number: 1
+
+day 17
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 81
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+day 17
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 82
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+day 17
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 83
+Rooms number: 1
+Rooms Id: No request granted.
+Check in date: 24
+Check out date: 27
+Nights number: 3
+
+day 17
+Request has been made.
+The guest's information is as follows:
+Guest id: 84
+Rooms number: 1
+Rooms Id: 30
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+The available rooms number today is 14
+
+day 17
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 84
+Rooms number: 1
+Rooms Id: 30
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+day 17
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 85
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 27
+Check out date: 30
+Nights number: 3
+
+day 18
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 56
+Rooms number: 1
+Rooms Id: 11
+Check in date: 16
+Check out date: 18
+Nights number: 2
+
+The available rooms number today is 8
+
+day 18
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 40
+Rooms number: 5
+Rooms Id: 5 6 8 9 10
+Check in date: 17
+Check out date: 18
+Nights number: 1
+
+The available rooms number today is 8
+
+day 18
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 24
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 18
+Check out date: 20
+Nights number: 2
+
+day 18
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 47
+Rooms number: 5
+Rooms Id: 8 9 10 11 12
+Check in date: 18
+Check out date: 19
+Nights number: 1
+
+day 18
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 57
+Rooms number: 5
+Rooms Id: 13 14 15 16 17
+Check in date: 18
+Check out date: 19
+Nights number: 1
+
+day 18
+Request has been made.
+The guest's information is as follows:
+Guest id: 86
+Rooms number: 1
+Rooms Id: 1
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+The available rooms number today is 8
+
+day 18
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 86
+Rooms number: 1
+Rooms Id: 1
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+day 18
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 87
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 24
+Check out date: 27
+Nights number: 3
+
+day 18
+Request has been made.
+The guest's information is as follows:
+Guest id: 88
+Rooms number: 1
+Rooms Id: 14
+Check in date: 22
+Check out date: 23
+Nights number: 1
+
+The available rooms number today is 8
+
+day 18
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 88
+Rooms number: 1
+Rooms Id: 14
+Check in date: 22
+Check out date: 23
+Nights number: 1
+
+day 18
+Request has been made.
+The guest's information is as follows:
+Guest id: 89
+Rooms number: 3
+Rooms Id: 22 23 30
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+The available rooms number today is 8
+
+day 18
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 89
+Rooms number: 3
+Rooms Id: 22 23 30
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+day 18
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 90
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+day 19
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 73
+Rooms number: 5
+Rooms Id: 18 19 20 21 22
+Check in date: 15
+Check out date: 19
+Nights number: 4
+
+The available rooms number today is 8
+
+day 19
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 31
+Rooms number: 5
+Rooms Id: 1 2 3 4 7
+Check in date: 16
+Check out date: 19
+Nights number: 3
+
+The available rooms number today is 8
+
+day 19
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 47
+Rooms number: 5
+Rooms Id: 8 9 10 11 12
+Check in date: 18
+Check out date: 19
+Nights number: 1
+
+The available rooms number today is 8
+
+day 19
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 57
+Rooms number: 5
+Rooms Id: 13 14 15 16 17
+Check in date: 18
+Check out date: 19
+Nights number: 1
+
+The available rooms number today is 8
+
+day 19
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 4
+Rooms number: 2
+Rooms Id: 1 2
+Check in date: 19
+Check out date: 20
+Nights number: 1
+
+day 19
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 5
+Rooms number: 2
+Rooms Id: 3 4
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+day 19
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 22
+Rooms number: 3
+Rooms Id: 7 8 9
+Check in date: 19
+Check out date: 21
+Nights number: 2
+
+day 19
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 33
+Rooms number: 4
+Rooms Id: 10 11 12 13
+Check in date: 19
+Check out date: 23
+Nights number: 4
+
+day 19
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 44
+Rooms number: 3
+Rooms Id: 15 16 17
+Check in date: 19
+Check out date: 23
+Nights number: 4
+
+day 19
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 48
+Rooms number: 2
+Rooms Id: 14 18
+Check in date: 19
+Check out date: 20
+Nights number: 1
+
+day 19
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 52
+Rooms number: 4
+Rooms Id: 23 24 25 26
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+day 19
+Request has been made.
+The guest's information is as follows:
+Guest id: 91
+Rooms number: 1
+Rooms Id: 25
+Check in date: 22
+Check out date: 23
+Nights number: 1
+
+The available rooms number today is 8
+
+day 19
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 91
+Rooms number: 1
+Rooms Id: 25
+Check in date: 22
+Check out date: 23
+Nights number: 1
+
+day 19
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 92
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 21
+Check out date: 25
+Nights number: 4
+
+day 19
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 93
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 19
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 95
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 19
+Check out date: 21
+Nights number: 2
+
+day 19
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 94
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 23
+Check out date: 26
+Nights number: 3
+
+day 20
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 24
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 18
+Check out date: 20
+Nights number: 2
+
+The available rooms number today is 0
+
+day 20
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 4
+Rooms number: 2
+Rooms Id: 1 2
+Check in date: 19
+Check out date: 20
+Nights number: 1
+
+The available rooms number today is 0
+
+day 20
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 48
+Rooms number: 2
+Rooms Id: 14 18
+Check in date: 19
+Check out date: 20
+Nights number: 1
+
+The available rooms number today is 0
+
+day 20
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 42
+Rooms number: 3
+Rooms Id: 1 2 14
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+day 20
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 50
+Rooms number: 4
+Rooms Id: 18 19 20 21
+Check in date: 20
+Check out date: 24
+Nights number: 4
+
+day 20
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 51
+Rooms number: 1
+Rooms Id: 22
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+day 20
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 55
+Rooms number: 5
+Rooms Id: 5 6 27 28 29
+Check in date: 20
+Check out date: 21
+Nights number: 1
+
+day 20
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 84
+Rooms number: 1
+Rooms Id: 30
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+day 20
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 96
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 21
+Check out date: 25
+Nights number: 4
+
+day 20
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 97
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 20
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 98
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 20
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 99
+Rooms number: 1
+Rooms Id: No request granted.
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+day 20
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 100
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 20
+Check out date: 21
+Nights number: 1
+
+day 21
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 22
+Rooms number: 3
+Rooms Id: 7 8 9
+Check in date: 19
+Check out date: 21
+Nights number: 2
+
+The available rooms number today is 1
+
+day 21
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 55
+Rooms number: 5
+Rooms Id: 5 6 27 28 29
+Check in date: 20
+Check out date: 21
+Nights number: 1
+
+The available rooms number today is 1
+
+day 21
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 10
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 21
+Check out date: 25
+Nights number: 4
+
+day 21
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 72
+Rooms number: 3
+Rooms Id: 9 27 28
+Check in date: 21
+Check out date: 23
+Nights number: 2
+
+day 21
+Request has been made.
+The guest's information is as follows:
+Guest id: 101
+Rooms number: 1
+Rooms Id: 29
+Check in date: 21
+Check out date: 22
+Nights number: 1
+
+The available rooms number today is 0
+
+day 21
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 101
+Rooms number: 1
+Rooms Id: 29
+Check in date: 21
+Check out date: 22
+Nights number: 1
+
+day 21
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 102
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+day 21
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 104
+Rooms number: 1
+Rooms Id: No request granted.
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+day 21
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 105
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 23
+Check out date: 27
+Nights number: 4
+
+day 21
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 103
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+day 22
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 5
+Rooms number: 2
+Rooms Id: 3 4
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+The available rooms number today is 3
+
+day 22
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 52
+Rooms number: 4
+Rooms Id: 23 24 25 26
+Check in date: 19
+Check out date: 22
+Nights number: 3
+
+The available rooms number today is 3
+
+day 22
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 42
+Rooms number: 3
+Rooms Id: 1 2 14
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+The available rooms number today is 3
+
+day 22
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 51
+Rooms number: 1
+Rooms Id: 22
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+The available rooms number today is 3
+
+day 22
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 84
+Rooms number: 1
+Rooms Id: 30
+Check in date: 20
+Check out date: 22
+Nights number: 2
+
+The available rooms number today is 3
+
+day 22
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 101
+Rooms number: 1
+Rooms Id: 29
+Check in date: 21
+Check out date: 22
+Nights number: 1
+
+The available rooms number today is 3
+
+day 22
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 61
+Rooms number: 3
+Rooms Id: 22 23 24
+Check in date: 22
+Check out date: 26
+Nights number: 4
+
+day 22
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 68
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 22
+Check out date: 24
+Nights number: 2
+
+day 22
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 88
+Rooms number: 1
+Rooms Id: 14
+Check in date: 22
+Check out date: 23
+Nights number: 1
+
+day 22
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 91
+Rooms number: 1
+Rooms Id: 25
+Check in date: 22
+Check out date: 23
+Nights number: 1
+
+day 22
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 106
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+day 22
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 107
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 22
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 108
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+day 22
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 109
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 25
+Check out date: 29
+Nights number: 4
+
+day 22
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 110
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 22
+Check out date: 24
+Nights number: 2
+
+day 23
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 33
+Rooms number: 4
+Rooms Id: 10 11 12 13
+Check in date: 19
+Check out date: 23
+Nights number: 4
+
+The available rooms number today is 10
+
+day 23
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 44
+Rooms number: 3
+Rooms Id: 15 16 17
+Check in date: 19
+Check out date: 23
+Nights number: 4
+
+The available rooms number today is 10
+
+day 23
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 72
+Rooms number: 3
+Rooms Id: 9 27 28
+Check in date: 21
+Check out date: 23
+Nights number: 2
+
+The available rooms number today is 10
+
+day 23
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 88
+Rooms number: 1
+Rooms Id: 14
+Check in date: 22
+Check out date: 23
+Nights number: 1
+
+The available rooms number today is 10
+
+day 23
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 91
+Rooms number: 1
+Rooms Id: 25
+Check in date: 22
+Check out date: 23
+Nights number: 1
+
+The available rooms number today is 10
+
+day 23
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 63
+Rooms number: 5
+Rooms Id: 13 14 26 27 28
+Check in date: 23
+Check out date: 25
+Nights number: 2
+
+day 23
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 111
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 27
+Check out date: 30
+Nights number: 3
+
+day 23
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 113
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 23
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 114
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 27
+Check out date: 30
+Nights number: 3
+
+day 23
+Request has been made.
+The guest's information is as follows:
+Guest id: 115
+Rooms number: 4
+Rooms Id: 18 24 28 29
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+The available rooms number today is 10
+
+day 23
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 115
+Rooms number: 4
+Rooms Id: 18 24 28 29
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+day 23
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 112
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 24
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 50
+Rooms number: 4
+Rooms Id: 18 19 20 21
+Check in date: 20
+Check out date: 24
+Nights number: 4
+
+The available rooms number today is 2
+
+day 24
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 68
+Rooms number: 4
+Rooms Id: 1 2 3 4
+Check in date: 22
+Check out date: 24
+Nights number: 2
+
+The available rooms number today is 2
+
+day 24
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 6
+Rooms number: 2
+Rooms Id: 1 2
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+day 24
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 34
+Rooms number: 2
+Rooms Id: 4 12
+Check in date: 24
+Check out date: 27
+Nights number: 3
+
+day 24
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 37
+Rooms number: 3
+Rooms Id: 3 9 10
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+day 24
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 43
+Rooms number: 2
+Rooms Id: 15 16
+Check in date: 24
+Check out date: 28
+Nights number: 4
+
+day 24
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 45
+Rooms number: 3
+Rooms Id: 11 17 18
+Check in date: 24
+Check out date: 26
+Nights number: 2
+
+day 24
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 62
+Rooms number: 4
+Rooms Id: 19 20 21 25
+Check in date: 24
+Check out date: 28
+Nights number: 4
+
+day 24
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 116
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+day 24
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 117
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+day 24
+Request has been made.
+The guest's information is as follows:
+Guest id: 118
+Rooms number: 1
+Rooms Id: 12
+Check in date: 27
+Check out date: 29
+Nights number: 2
+
+The available rooms number today is 2
+
+day 24
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 118
+Rooms number: 1
+Rooms Id: 12
+Check in date: 27
+Check out date: 29
+Nights number: 2
+
+day 24
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 119
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 24
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 120
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 25
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 10
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 21
+Check out date: 25
+Nights number: 4
+
+The available rooms number today is 0
+
+day 25
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 63
+Rooms number: 5
+Rooms Id: 13 14 26 27 28
+Check in date: 23
+Check out date: 25
+Nights number: 2
+
+The available rooms number today is 0
+
+day 25
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 6
+Rooms number: 2
+Rooms Id: 1 2
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+The available rooms number today is 0
+
+day 25
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 37
+Rooms number: 3
+Rooms Id: 3 9 10
+Check in date: 24
+Check out date: 25
+Nights number: 1
+
+The available rooms number today is 0
+
+day 25
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 25
+Rooms number: 3
+Rooms Id: 1 2 3
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+day 25
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 39
+Rooms number: 2
+Rooms Id: 13 14
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+day 25
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 49
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+day 25
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 64
+Rooms number: 1
+Rooms Id: 26
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+day 25
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 77
+Rooms number: 1
+Rooms Id: 27
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+day 25
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 76
+Rooms number: 5
+Rooms Id: 9 10 28 29 30
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+day 25
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 122
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 25
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 123
+Rooms number: 1
+Rooms Id: No request granted.
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+day 25
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 124
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 27
+Check out date: 28
+Nights number: 1
+
+day 25
+Request has been made.
+The guest's information is as follows:
+Guest id: 125
+Rooms number: 1
+Rooms Id: 25
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 0
+
+day 25
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 125
+Rooms number: 1
+Rooms Id: 25
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 25
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 121
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 26
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 61
+Rooms number: 3
+Rooms Id: 22 23 24
+Check in date: 22
+Check out date: 26
+Nights number: 4
+
+The available rooms number today is 0
+
+day 26
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 45
+Rooms number: 3
+Rooms Id: 11 17 18
+Check in date: 24
+Check out date: 26
+Nights number: 2
+
+The available rooms number today is 0
+
+day 26
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 25
+Rooms number: 3
+Rooms Id: 1 2 3
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+The available rooms number today is 0
+
+day 26
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 49
+Rooms number: 4
+Rooms Id: 5 6 7 8
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+The available rooms number today is 0
+
+day 26
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 76
+Rooms number: 5
+Rooms Id: 9 10 28 29 30
+Check in date: 25
+Check out date: 26
+Nights number: 1
+
+The available rooms number today is 0
+
+day 26
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 15
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+day 26
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 26
+Rooms number: 3
+Rooms Id: 9 10 11
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+day 26
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 36
+Rooms number: 2
+Rooms Id: 2 3
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+day 26
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 38
+Rooms number: 2
+Rooms Id: 7 8
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+day 26
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 54
+Rooms number: 1
+Rooms Id: 17
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+day 26
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 86
+Rooms number: 1
+Rooms Id: 1
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+day 26
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 89
+Rooms number: 3
+Rooms Id: 22 23 30
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+day 26
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 115
+Rooms number: 4
+Rooms Id: 18 24 28 29
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+day 26
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 126
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 26
+Request has been made.
+The guest's information is as follows:
+Guest id: 127
+Rooms number: 1
+Rooms Id: 30
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 0
+
+day 26
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 127
+Rooms number: 1
+Rooms Id: 30
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 26
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 128
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 27
+Check out date: 29
+Nights number: 2
+
+day 26
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 129
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+day 26
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 130
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 27
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 34
+Rooms number: 2
+Rooms Id: 4 12
+Check in date: 24
+Check out date: 27
+Nights number: 3
+
+The available rooms number today is 4
+
+day 27
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 39
+Rooms number: 2
+Rooms Id: 13 14
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+The available rooms number today is 4
+
+day 27
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 64
+Rooms number: 1
+Rooms Id: 26
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+The available rooms number today is 4
+
+day 27
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 77
+Rooms number: 1
+Rooms Id: 27
+Check in date: 25
+Check out date: 27
+Nights number: 2
+
+The available rooms number today is 4
+
+day 27
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 86
+Rooms number: 1
+Rooms Id: 1
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+The available rooms number today is 4
+
+day 27
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 115
+Rooms number: 4
+Rooms Id: 18 24 28 29
+Check in date: 26
+Check out date: 27
+Nights number: 1
+
+The available rooms number today is 4
+
+day 27
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 20
+Rooms number: 1
+Rooms Id: 1
+Check in date: 27
+Check out date: 28
+Nights number: 1
+
+day 27
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 78
+Rooms number: 5
+Rooms Id: 24 26 27 28 29
+Check in date: 27
+Check out date: 30
+Nights number: 3
+
+day 27
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 118
+Rooms number: 1
+Rooms Id: 12
+Check in date: 27
+Check out date: 29
+Nights number: 2
+
+day 27
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 131
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 27
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 132
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 27
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 133
+Rooms number: 5
+Rooms Id: No request granted.
+Check in date: 27
+Check out date: 29
+Nights number: 2
+
+day 27
+Request has been made.
+The guest's information is as follows:
+Guest id: 134
+Rooms number: 4
+Rooms Id: 1 20 21 25
+Check in date: 28
+Check out date: 29
+Nights number: 1
+
+The available rooms number today is 4
+
+day 27
+Request has been confirmed.
+The guest's information is as follows:
+Guest id: 134
+Rooms number: 4
+Rooms Id: 1 20 21 25
+Check in date: 28
+Check out date: 29
+Nights number: 1
+
+day 27
+Request has been made.
+The guest's information is as follows:
+Guest id: 135
+Rooms number: 3
+Rooms Id: 4 13 14
+Check in date: 27
+Check out date: 28
+Nights number: 1
+
+The available rooms number today is 1
+
+day 27
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 135
+Rooms number: 3
+Rooms Id: 4 13 14
+Check in date: 27
+Check out date: 28
+Nights number: 1
+
+day 28
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 43
+Rooms number: 2
+Rooms Id: 15 16
+Check in date: 24
+Check out date: 28
+Nights number: 4
+
+The available rooms number today is 0
+
+day 28
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 62
+Rooms number: 4
+Rooms Id: 19 20 21 25
+Check in date: 24
+Check out date: 28
+Nights number: 4
+
+The available rooms number today is 0
+
+day 28
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 36
+Rooms number: 2
+Rooms Id: 2 3
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+The available rooms number today is 0
+
+day 28
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 38
+Rooms number: 2
+Rooms Id: 7 8
+Check in date: 26
+Check out date: 28
+Nights number: 2
+
+The available rooms number today is 0
+
+day 28
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 20
+Rooms number: 1
+Rooms Id: 1
+Check in date: 27
+Check out date: 28
+Nights number: 1
+
+The available rooms number today is 0
+
+day 28
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 135
+Rooms number: 3
+Rooms Id: 4 13 14
+Check in date: 27
+Check out date: 28
+Nights number: 1
+
+The available rooms number today is 0
+
+day 28
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 9
+Rooms number: 3
+Rooms Id: 2 3 4
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 28
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 19
+Rooms number: 2
+Rooms Id: 7 8
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 28
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 58
+Rooms number: 1
+Rooms Id: 13
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 28
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 65
+Rooms number: 1
+Rooms Id: 14
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 28
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 70
+Rooms number: 4
+Rooms Id: 15 16 18 19
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 28
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 134
+Rooms number: 4
+Rooms Id: 1 20 21 25
+Check in date: 28
+Check out date: 29
+Nights number: 1
+
+day 28
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 136
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 29
+Nights number: 1
+
+day 28
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 137
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 28
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 138
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+day 28
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 140
+Rooms number: 1
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 28
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 139
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 26
+Rooms number: 3
+Rooms Id: 9 10 11
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+The available rooms number today is 0
+
+day 29
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 89
+Rooms number: 3
+Rooms Id: 22 23 30
+Check in date: 26
+Check out date: 29
+Nights number: 3
+
+The available rooms number today is 0
+
+day 29
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 118
+Rooms number: 1
+Rooms Id: 12
+Check in date: 27
+Check out date: 29
+Nights number: 2
+
+The available rooms number today is 0
+
+day 29
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 134
+Rooms number: 4
+Rooms Id: 1 20 21 25
+Check in date: 28
+Check out date: 29
+Nights number: 1
+
+The available rooms number today is 0
+
+day 29
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 1
+Rooms number: 1
+Rooms Id: 1
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 60
+Rooms number: 4
+Rooms Id: 9 10 11 12
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 74
+Rooms number: 4
+Rooms Id: 20 21 22 23
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 125
+Rooms number: 1
+Rooms Id: 25
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Guest has checked in.
+The guest's information is as follows:
+Guest id: 127
+Rooms number: 1
+Rooms Id: 30
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 141
+Rooms number: 1
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 142
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 143
+Rooms number: 4
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 144
+Rooms number: 3
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 29
+Request has been discarded.
+The guest's information is as follows:
+Guest id: 145
+Rooms number: 2
+Rooms Id: No request granted.
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 15
+Rooms number: 2
+Rooms Id: 5 6
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 54
+Rooms number: 1
+Rooms Id: 17
+Check in date: 26
+Check out date: 30
+Nights number: 4
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 78
+Rooms number: 5
+Rooms Id: 24 26 27 28 29
+Check in date: 27
+Check out date: 30
+Nights number: 3
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 9
+Rooms number: 3
+Rooms Id: 2 3 4
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 19
+Rooms number: 2
+Rooms Id: 7 8
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 58
+Rooms number: 1
+Rooms Id: 13
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 65
+Rooms number: 1
+Rooms Id: 14
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 70
+Rooms number: 4
+Rooms Id: 15 16 18 19
+Check in date: 28
+Check out date: 30
+Nights number: 2
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 1
+Rooms number: 1
+Rooms Id: 1
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 60
+Rooms number: 4
+Rooms Id: 9 10 11 12
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 74
+Rooms number: 4
+Rooms Id: 20 21 22 23
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 125
+Rooms number: 1
+Rooms Id: 25
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 30
+
+day 30
+Guest has checked out.
+The guest's information is as follows:
+Guest id: 127
+Rooms number: 1
+Rooms Id: 30
+Check in date: 29
+Check out date: 30
+Nights number: 1
+
+The available rooms number today is 30
+
+This is hotel's last 30 days summary:
+Day 1
+Rooms' Occupancy Rate: 0
+Granted Rate: 1
+Day 2
+Rooms' Occupancy Rate: 0
+Granted Rate: 1
+Day 3
+Rooms' Occupancy Rate: 0.266667
+Granted Rate: 1
+Day 4
+Rooms' Occupancy Rate: 0.533333
+Granted Rate: 1
+Day 5
+Rooms' Occupancy Rate: 0.566667
+Granted Rate: 1
+Day 6
+Rooms' Occupancy Rate: 0.4
+Granted Rate: 1
+Day 7
+Rooms' Occupancy Rate: 0.3
+Granted Rate: 1
+Day 8
+Rooms' Occupancy Rate: 0.3
+Granted Rate: 1
+Day 9
+Rooms' Occupancy Rate: 0.2
+Granted Rate: 1
+Day 10
+Rooms' Occupancy Rate: 0.333333
+Granted Rate: 1
+Day 11
+Rooms' Occupancy Rate: 0.433333
+Granted Rate: 1
+Day 12
+Rooms' Occupancy Rate: 0.4
+Granted Rate: 0.8
+Day 13
+Rooms' Occupancy Rate: 0.633333
+Granted Rate: 1
+Day 14
+Rooms' Occupancy Rate: 0.466667
+Granted Rate: 0.6
+Day 15
+Rooms' Occupancy Rate: 0.433333
+Granted Rate: 0.6
+Day 16
+Rooms' Occupancy Rate: 0.4
+Granted Rate: 0.6
+Day 17
+Rooms' Occupancy Rate: 0.533333
+Granted Rate: 0.2
+Day 18
+Rooms' Occupancy Rate: 0.733333
+Granted Rate: 0.6
+Day 19
+Rooms' Occupancy Rate: 0.733333
+Granted Rate: 0.2
+Day 20
+Rooms' Occupancy Rate: 1
+Granted Rate: 0
+Day 21
+Rooms' Occupancy Rate: 1
+Granted Rate: 0.2
+Day 22
+Rooms' Occupancy Rate: 0.9
+Granted Rate: 0
+Day 23
+Rooms' Occupancy Rate: 0.666667
+Granted Rate: 0.2
+Day 24
+Rooms' Occupancy Rate: 0.933333
+Granted Rate: 0.2
+Day 25
+Rooms' Occupancy Rate: 1
+Granted Rate: 0.2
+Day 26
+Rooms' Occupancy Rate: 1
+Granted Rate: 0.2
+Day 27
+Rooms' Occupancy Rate: 0.966667
+Granted Rate: 0.4
+Day 28
+Rooms' Occupancy Rate: 1
+Granted Rate: 0
+Day 29
+Rooms' Occupancy Rate: 1
+Granted Rate: 0
